@@ -1,2 +1,2 @@
 # Online-Pizza-Delivery-Sytem
-Html,css,php,MySql
+Html,css,JS,php,MySql
